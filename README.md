@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imshashwatsingh@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/imshashwatsingh/foodies-bvp](https://github.com/imshashwatsingh/foodies-bvp)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shashwat-singh14/](https://www.linkedin.com/in/shashwat-singh14/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
