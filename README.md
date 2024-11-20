@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Foodies BVP and My Portfolio](https://github.com/imshashwatsingh/foodies-bvp)
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **NodeJS, ExpressJS, Axios or anything related with Backend Development**
