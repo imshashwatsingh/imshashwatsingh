@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh</h1>
-<h3 align="center">A passionate Backend Developer, Data Analyst and Musician/Drummer from New Delhi, India</h3>
+<h3 align="center">A passionate Backend Developer and Data Science Enthusiast from New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshashwatsingh&label=Profile%20views&color=0e75b6&style=flat" alt="imshashwatsingh" /> </p>
 
