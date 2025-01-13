@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imshash140403" target="blank"><img src="https://img.shields.io/twitter/follow/imshash140403?logo=twitter&style=for-the-badge" alt="imshash140403" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio(https://github.com/imshashwatsingh/MyPortfolio)**
 
 - 🌱 I’m currently learning **React**
 
