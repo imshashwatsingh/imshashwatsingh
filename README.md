@@ -47,13 +47,14 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
 ## 📊 GitHub Stats:
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=yatin-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px"> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshashwatsingh&theme=dark&hide_border=false" height="180px">&nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshashwatsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshashwatsingh&theme=dark&hide_border=false" height="200px">&nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshashwatsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200x">
 </p>
+
+
 </div>
 ---
