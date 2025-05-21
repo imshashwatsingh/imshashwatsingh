@@ -33,12 +33,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imshashwatsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 📊 GitHub Stats:
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=yatin-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px"> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshashwatsingh&theme=dark&hide_border=false" height="200px">&nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshashwatsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200x">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshashwatsingh&theme=dark&hide_border=false" height="180px">&nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshashwatsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180x">
 </p>
 
 ### ✍️ Random Dev Quote
